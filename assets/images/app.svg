@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 50" width="150" height="50">
+	<title>Available on the App Store</title>
+	<defs>
+		<image  width="20" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAMAAAAGyf7hAAAAAXNSR0IB2cksfwAAANVQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////fPoPwAAAAEd0Uk5TACOnuwFZ/P/jMpyxJQLaMU05oc/QoEQDf9Lk05soc8diXRUORm7t9OopyF6iCRDMsqswFq6UDPLvBf4qL73s0X4HHsnruhvEu9NTAAAAtklEQVR4nG3R5w6CQAwA4DrrwgEOVMSNuPfEvd7/kSyHMdqzP67pl6bp3QF8hc8fCAKLUBgj3KKIGOMYJ0wwUxCTKd6oxNJ0fMqMqmVzeYCCXiyVjYowE0Vkq17GGrXXkUcDmpK1FNC5tWmixkzcyWKouthhaLhoM9Tgz0zsEqoce4R9ac/BEEYS4hhgIuEUYCbhnKYumC3dpVbrH9tsvR/bicoWyXLeT78/HE9n53I1b/fHk+oXQHUS5lG7N+oAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ce181e;stroke: #ffffff;stroke-linejoin: round;stroke-width: 2 } 
+		.t1 { font-size: 12px;line-height: 16px;fill: #ffffff;font-family: "Helvetica" } 
+		.t2 { font-size: 16px;line-height: 16px;fill: #ffffff;font-weight: bold;font-family: "Helvetica" } 
+	</style>
+	<path id="bg" class="s0" d="m5 0h140c2.8 0 5 2.2 5 5v40c0 2.8-2.2 5-5 5h-140c-2.8 0-5-2.2-5-5v-40c0-2.8 2.2-5 5-5z"/>
+	<use id="apple-black-logo" href="#img1" x="15" y="13"/>
+	<text id="Available on the App Store" style="transform: matrix(1,0,0,1,50.25,19.25)" >
+		<tspan x="0" y="0" class="t1">A</tspan><tspan  y="0" class="t1">vailable on the
+</tspan>
+		<tspan x="0" y="16" class="t2">App Store
+</tspan>
+	</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" width="160" height="50">
+	<title>Get it on Google Play</title>
+	<defs>
+		<image  width="23" height="25" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAZCAMAAADt/kXiAAAAAXNSR0IB2cksfwAAAQVQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////n2R+fwAAAFd0Uk5TO9zqiQwA5P/oaPXRUum6M6Qfk7iAB8wCVfvxac0Kj0ilFrU0auP4mRfTUVp9mHbyJv4Prz9Q1ogBdb4gm8E+2ILiVNAFTe/6c6mMDv0pxvTaXnRE3+uUxAGnqQAAAN9JREFUeJxt0WlfQUEUx/GrOv3QKmvcRFwtSKWFFG1KaVHk/b+U5vKkmbnn4Xfm858z5zhOaGFxSaxyloFwxPYofq2smr7GvNY3gh02YwEe3YpDImnfT6Uz22Rzdo4rO3l1vGvlF0SKKdgrGU5Zkl7Fhf0D3ckcciRVD2q6Q93POG5Q0N2dP3pyiuaVsxnnPJqan/t6cQlXrf/eVlq6Vg13tH6aIp0buO3q/fdE7uD+wfjv41P/mZeBNc/8K7wNrXm+q/yPoL18dvV9fc109G3uN6w0+yNmOePJ77RosfwBlrAcur2w3qoAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ce181e;stroke: #ffffff;stroke-linejoin: round;stroke-width: 2 } 
+		.t1 { font-size: 12px;line-height: 16px;fill: #ffffff;font-family: "Helvetica" } 
+		.t2 { font-size: 16px;line-height: 16px;fill: #ffffff;font-weight: bold;font-family: "Helvetica" } 
+	</style>
+	<path id="bg" class="s0" d="m5 0h150c2.8 0 5 2.2 5 5v40c0 2.8-2.2 5-5 5h-150c-2.8 0-5-2.2-5-5v-40c0-2.8 2.2-5 5-5z"/>
+	<use id="play-store" href="#img1" x="15" y="12"/>
+	<text id="Get it on Google Play" style="transform: matrix(1,0,0,1,50.25,19.25)" >
+		<tspan x="0" y="0" class="t1">G</tspan><tspan  y="0" class="t1">et it on
+</tspan>
+		<tspan x="0" y="16" class="t2">Google Play
+</tspan>
+	</text>
+</svg>

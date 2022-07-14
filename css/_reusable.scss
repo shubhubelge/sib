@@ -10,9 +10,19 @@ html {
   margin: 0;
   padding: 0;
 }
-
+.di-flex{
+  display: flex;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
 a{
   text-decoration: none;
+}
+h1, h2, h3, h4,h5, h6{
+  margin: 0;
 }
 .container {
   width: 100%;
@@ -46,7 +56,7 @@ a{
 }
 @media (max-width: 992px) {
   .container{
-    padding-right: 32px;
-    padding-left: 32px;
+    padding-right: 16px;
+    padding-left: 16px;
   }
 }
